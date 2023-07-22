@@ -1,0 +1,245 @@
+id,order_date,region,city,category,product,quantity,unit_price
+1,2020-01-01,East,Boston,Bars,Carrot,33,1.77
+2,2020-01-04,East,Boston,Crackers,Whole Wheat,87,3.49
+3,2020-01-07,West,Los Angeles,Cookies,Chocolate Chip,58,1.87
+4,2020-01-10,East,New York,Cookies,Chocolate Chip,82,1.87
+5,2020-01-13,East,Boston,Cookies,Arrowroot,38,2.18
+6,2020-01-16,East,Boston,Bars,Carrot,54,1.77
+7,2020-01-19,East,Boston,Crackers,Whole Wheat,149,3.49
+8,2020-01-22,West,Los Angeles,Bars,Carrot,51,1.77
+9,2020-01-25,East,New York,Bars,Carrot,100,1.77
+10,2020-01-28,East,New York,Snacks,Potato Chips,28,1.35
+11,2020-01-31,East,Boston,Cookies,Arrowroot,36,2.18
+12,2020-02-03,East,Boston,Cookies,Chocolate Chip,31,1.87
+13,2020-02-06,East,Boston,Crackers,Whole Wheat,28,3.49
+14,2020-02-09,West,Los Angeles,Bars,Carrot,44,1.77
+15,2020-02-12,East,New York,Bars,Carrot,23,1.77
+16,2020-02-15,East,New York,Snacks,Potato Chips,27,1.35
+17,2020-02-18,East,Boston,Cookies,Arrowroot,43,2.18
+18,2020-02-21,East,Boston,Cookies,Oatmeal Raisin,123,2.84
+19,2020-02-24,West,Los Angeles,Bars,Bran,42,1.87
+20,2020-02-27,West,Los Angeles,Cookies,Oatmeal Raisin,33,2.84
+21,2020-03-02,East,New York,Cookies,Chocolate Chip,85,1.87
+22,2020-03-05,West,San Diego,Cookies,Oatmeal Raisin,30,2.84
+23,2020-03-08,East,Boston,Bars,Carrot,61,1.77
+24,2020-03-11,East,Boston,Crackers,Whole Wheat,40,3.49
+25,2020-03-14,West,Los Angeles,Cookies,Chocolate Chip,86,1.87
+26,2020-03-17,East,New York,Bars,Carrot,38,1.77
+27,2020-03-20,East,New York,Snacks,Potato Chips,68,1.68
+28,2020-03-23,West,San Diego,Cookies,Chocolate Chip,39,1.87
+29,2020-03-26,East,Boston,Bars,Bran,103,1.87
+30,2020-03-29,East,Boston,Cookies,Oatmeal Raisin,193,2.84
+31,2020-04-01,West,Los Angeles,Bars,Carrot,58,1.77
+32,2020-04-04,West,Los Angeles,Snacks,Potato Chips,68,1.68
+33,2020-04-07,East,New York,Bars,Carrot,91,1.77
+34,2020-04-10,East,New York,Crackers,Whole Wheat,23,3.49
+35,2020-04-13,West,San Diego,Snacks,Potato Chips,28,1.68
+36,2020-04-16,East,Boston,Bars,Carrot,48,1.77
+37,2020-04-19,East,Boston,Snacks,Potato Chips,134,1.68
+38,2020-04-22,West,Los Angeles,Bars,Carrot,20,1.77
+39,2020-04-25,East,New York,Bars,Carrot,53,1.77
+40,2020-04-28,East,New York,Snacks,Potato Chips,64,1.68
+41,2020-05-01,West,San Diego,Cookies,Chocolate Chip,63,1.87
+42,2020-05-04,East,Boston,Bars,Bran,105,1.87
+43,2020-05-07,East,Boston,Cookies,Oatmeal Raisin,138,2.84
+44,2020-05-10,West,Los Angeles,Bars,Carrot,25,1.77
+45,2020-05-13,West,Los Angeles,Crackers,Whole Wheat,21,3.49
+46,2020-05-16,East,New York,Bars,Carrot,61,1.77
+47,2020-05-19,East,New York,Snacks,Potato Chips,49,1.68
+48,2020-05-22,West,San Diego,Cookies,Chocolate Chip,55,1.87
+49,2020-05-25,East,Boston,Cookies,Arrowroot,27,2.18
+50,2020-05-28,East,Boston,Bars,Carrot,58,1.77
+51,2020-05-31,East,Boston,Crackers,Whole Wheat,33,3.49
+52,2020-06-03,West,Los Angeles,Cookies,Oatmeal Raisin,288,2.84
+53,2020-06-06,East,New York,Cookies,Chocolate Chip,76,1.87
+54,2020-06-09,West,San Diego,Bars,Carrot,42,1.77
+55,2020-06-12,West,San Diego,Crackers,Whole Wheat,20,3.49
+56,2020-06-15,East,Boston,Bars,Carrot,75,1.77
+57,2020-06-18,East,Boston,Crackers,Whole Wheat,38,3.49
+58,2020-06-21,West,Los Angeles,Bars,Carrot,306,1.77
+59,2020-06-24,West,Los Angeles,Snacks,Potato Chips,28,1.68
+60,2020-06-27,East,New York,Bars,Bran,110,1.87
+61,2020-06-30,East,New York,Cookies,Oatmeal Raisin,51,2.84
+62,2020-07-03,West,San Diego,Bars,Carrot,52,1.77
+63,2020-07-06,West,San Diego,Crackers,Whole Wheat,28,3.49
+64,2020-07-09,East,Boston,Bars,Carrot,136,1.77
+65,2020-07-12,East,Boston,Crackers,Whole Wheat,42,3.49
+66,2020-07-15,West,Los Angeles,Cookies,Chocolate Chip,75,1.87
+67,2020-07-18,East,New York,Bars,Bran,72,1.87
+68,2020-07-21,East,New York,Cookies,Oatmeal Raisin,56,2.84
+69,2020-07-24,West,San Diego,Bars,Bran,51,1.87
+70,2020-07-27,West,San Diego,Snacks,Potato Chips,31,1.68
+71,2020-07-30,East,Boston,Bars,Bran,56,1.87
+72,2020-08-02,East,Boston,Cookies,Oatmeal Raisin,137,2.84
+73,2020-08-05,West,Los Angeles,Cookies,Chocolate Chip,107,1.87
+74,2020-08-08,East,New York,Bars,Carrot,24,1.77
+75,2020-08-11,East,New York,Crackers,Whole Wheat,30,3.49
+76,2020-08-14,West,San Diego,Cookies,Chocolate Chip,70,1.87
+77,2020-08-17,East,Boston,Cookies,Arrowroot,31,2.18
+78,2020-08-20,East,Boston,Bars,Carrot,109,1.77
+79,2020-08-23,East,Boston,Crackers,Whole Wheat,21,3.49
+80,2020-08-26,West,Los Angeles,Cookies,Chocolate Chip,80,1.87
+81,2020-08-29,East,New York,Bars,Bran,75,1.87
+82,2020-09-01,East,New York,Cookies,Oatmeal Raisin,74,2.84
+83,2020-09-04,West,San Diego,Bars,Carrot,45,1.77
+84,2020-09-07,East,Boston,Cookies,Arrowroot,28,2.18
+85,2020-09-10,East,Boston,Bars,Carrot,143,1.77
+86,2020-09-13,East,Boston,Snacks,Pretzels,27,3.15
+87,2020-09-16,West,Los Angeles,Bars,Carrot,133,1.77
+88,2020-09-19,East,New York,Cookies,Arrowroot,110,2.18
+89,2020-09-22,East,New York,Cookies,Chocolate Chip,65,1.87
+90,2020-09-25,West,San Diego,Bars,Bran,33,1.87
+91,2020-09-28,East,Boston,Cookies,Arrowroot,81,2.18
+92,2020-10-01,East,Boston,Bars,Carrot,77,1.77
+93,2020-10-04,East,Boston,Crackers,Whole Wheat,38,3.49
+94,2020-10-07,West,Los Angeles,Bars,Carrot,40,1.77
+95,2020-10-10,West,Los Angeles,Snacks,Potato Chips,114,1.68
+96,2020-10-13,East,New York,Cookies,Arrowroot,224,2.18
+97,2020-10-16,East,New York,Bars,Carrot,141,1.77
+98,2020-10-19,East,New York,Crackers,Whole Wheat,32,3.49
+99,2020-10-22,West,San Diego,Bars,Carrot,20,1.77
+100,2020-10-25,East,Boston,Cookies,Arrowroot,40,2.18
+101,2020-10-28,East,Boston,Cookies,Chocolate Chip,49,1.87
+102,2020-10-31,East,Boston,Crackers,Whole Wheat,46,3.49
+103,2020-11-03,West,Los Angeles,Bars,Carrot,39,1.77
+104,2020-11-06,West,Los Angeles,Snacks,Potato Chips,62,1.68
+105,2020-11-09,East,New York,Bars,Carrot,90,1.77
+106,2020-11-12,West,San Diego,Cookies,Arrowroot,103,2.18
+107,2020-11-15,West,San Diego,Cookies,Oatmeal Raisin,32,2.84
+108,2020-11-18,East,Boston,Bars,Bran,66,1.87
+109,2020-11-21,East,Boston,Cookies,Oatmeal Raisin,97,2.84
+110,2020-11-24,West,Los Angeles,Bars,Carrot,30,1.77
+111,2020-11-27,West,Los Angeles,Snacks,Potato Chips,29,1.68
+112,2020-11-30,East,New York,Bars,Carrot,92,1.77
+113,2020-12-03,West,San Diego,Cookies,Arrowroot,139,2.18
+114,2020-12-06,West,San Diego,Cookies,Oatmeal Raisin,29,2.84
+115,2020-12-09,East,Boston,Bars,Banana,30,2.27
+116,2020-12-12,East,Boston,Cookies,Chocolate Chip,36,1.87
+117,2020-12-15,East,Boston,Crackers,Whole Wheat,41,3.49
+118,2020-12-18,West,Los Angeles,Bars,Carrot,44,1.77
+119,2020-12-21,West,Los Angeles,Snacks,Potato Chips,29,1.68
+120,2020-12-24,East,New York,Cookies,Arrowroot,237,2.18
+121,2020-12-27,East,New York,Cookies,Chocolate Chip,65,1.87
+122,2020-12-30,West,San Diego,Cookies,Arrowroot,83,2.18
+123,2021-01-02,East,Boston,Cookies,Arrowroot,32,2.18
+124,2021-01-05,East,Boston,Bars,Carrot,63,1.77
+125,2021-01-08,East,Boston,Snacks,Pretzels,29,3.15
+126,2021-01-11,West,Los Angeles,Bars,Bran,77,1.87
+127,2021-01-14,West,Los Angeles,Cookies,Oatmeal Raisin,80,2.84
+128,2021-01-17,East,New York,Bars,Carrot,102,1.77
+129,2021-01-20,East,New York,Crackers,Whole Wheat,31,3.49
+130,2021-01-23,West,San Diego,Bars,Carrot,56,1.77
+131,2021-01-26,East,Boston,Cookies,Arrowroot,52,2.18
+132,2021-01-29,East,Boston,Bars,Carrot,51,1.77
+133,2021-02-01,East,Boston,Snacks,Potato Chips,24,1.68
+134,2021-02-04,West,Los Angeles,Cookies,Arrowroot,58,2.18
+135,2021-02-07,West,Los Angeles,Cookies,Chocolate Chip,34,1.87
+136,2021-02-10,East,New York,Bars,Carrot,34,1.77
+137,2021-02-13,East,New York,Snacks,Potato Chips,21,1.68
+138,2021-02-16,West,San Diego,Cookies,Oatmeal Raisin,29,2.84
+139,2021-02-19,East,Boston,Bars,Carrot,68,1.77
+140,2021-02-22,East,Boston,Snacks,Pretzels,31,3.15
+141,2021-02-25,West,Los Angeles,Cookies,Arrowroot,30,2.18
+142,2021-02-28,West,Los Angeles,Cookies,Chocolate Chip,232,1.87
+143,2021-03-02,East,New York,Bars,Bran,68,1.87
+144,2021-03-05,East,New York,Cookies,Oatmeal Raisin,97,2.84
+145,2021-03-08,West,San Diego,Bars,Bran,86,1.87
+146,2021-03-11,West,San Diego,Snacks,Potato Chips,41,1.68
+147,2021-03-14,East,Boston,Bars,Carrot,93,1.77
+148,2021-03-17,East,Boston,Snacks,Potato Chips,47,1.68
+149,2021-03-20,West,Los Angeles,Bars,Carrot,103,1.77
+150,2021-03-23,West,Los Angeles,Snacks,Potato Chips,33,1.68
+151,2021-03-26,East,New York,Bars,Bran,57,1.87
+152,2021-03-29,East,New York,Cookies,Oatmeal Raisin,65,2.84
+153,2021-04-01,West,San Diego,Bars,Carrot,118,1.77
+154,2021-04-04,East,Boston,Cookies,Arrowroot,36,2.18
+155,2021-04-07,East,Boston,Cookies,Oatmeal Raisin,123,2.84
+156,2021-04-10,West,Los Angeles,Bars,Carrot,90,1.77
+157,2021-04-13,West,Los Angeles,Crackers,Whole Wheat,21,3.49
+158,2021-04-16,East,New York,Bars,Carrot,48,1.77
+159,2021-04-19,East,New York,Snacks,Potato Chips,24,1.68
+160,2021-04-22,West,San Diego,Cookies,Chocolate Chip,67,1.87
+161,2021-04-25,East,Boston,Bars,Bran,27,1.87
+162,2021-04-28,East,Boston,Cookies,Oatmeal Raisin,129,2.84
+163,2021-05-01,West,Los Angeles,Cookies,Arrowroot,77,2.18
+164,2021-05-04,West,Los Angeles,Cookies,Chocolate Chip,58,1.87
+165,2021-05-07,East,New York,Bars,Bran,47,1.87
+166,2021-05-10,East,New York,Cookies,Oatmeal Raisin,33,2.84
+167,2021-05-13,West,San Diego,Cookies,Chocolate Chip,82,1.87
+168,2021-05-16,East,Boston,Bars,Carrot,58,1.77
+169,2021-05-19,East,Boston,Snacks,Pretzels,30,3.15
+170,2021-05-22,West,Los Angeles,Cookies,Chocolate Chip,43,1.87
+171,2021-05-25,East,New York,Bars,Carrot,84,1.77
+172,2021-05-28,West,San Diego,Cookies,Arrowroot,36,2.18
+173,2021-05-31,West,San Diego,Cookies,Oatmeal Raisin,44,2.84
+174,2021-06-03,East,Boston,Bars,Bran,27,1.87
+175,2021-06-06,East,Boston,Cookies,Oatmeal Raisin,120,2.84
+176,2021-06-09,East,Boston,Crackers,Whole Wheat,26,3.49
+177,2021-06-12,West,Los Angeles,Bars,Carrot,73,1.77
+178,2021-06-15,East,New York,Bars,Bran,38,1.87
+179,2021-06-18,East,New York,Cookies,Oatmeal Raisin,40,2.84
+180,2021-06-21,West,San Diego,Bars,Carrot,41,1.77
+181,2021-06-24,East,Boston,Bars,Banana,27,2.27
+182,2021-06-27,East,Boston,Cookies,Chocolate Chip,38,1.87
+183,2021-06-30,East,Boston,Crackers,Whole Wheat,34,3.49
+184,2021-07-03,West,Los Angeles,Bars,Bran,65,1.87
+185,2021-07-06,West,Los Angeles,Cookies,Oatmeal Raisin,60,2.84
+186,2021-07-09,East,New York,Cookies,Arrowroot,37,2.18
+187,2021-07-12,East,New York,Cookies,Chocolate Chip,40,1.87
+188,2021-07-15,West,San Diego,Bars,Bran,26,1.87
+189,2021-07-18,East,Boston,Bars,Banana,22,2.27
+190,2021-07-21,East,Boston,Cookies,Chocolate Chip,32,1.87
+191,2021-07-24,East,Boston,Crackers,Whole Wheat,23,3.49
+192,2021-07-27,West,Los Angeles,Cookies,Arrowroot,20,2.18
+193,2021-07-30,West,Los Angeles,Cookies,Chocolate Chip,64,1.87
+194,2021-08-02,East,New York,Bars,Carrot,71,1.77
+195,2021-08-05,West,San Diego,Cookies,Arrowroot,90,2.18
+196,2021-08-08,West,San Diego,Cookies,Oatmeal Raisin,38,2.84
+197,2021-08-11,East,Boston,Bars,Carrot,55,1.77
+198,2021-08-14,East,Boston,Snacks,Pretzels,22,3.15
+199,2021-08-17,West,Los Angeles,Bars,Carrot,34,1.77
+200,2021-08-20,East,New York,Bars,Bran,39,1.87
+201,2021-08-23,East,New York,Cookies,Oatmeal Raisin,41,2.84
+202,2021-08-26,West,San Diego,Bars,Carrot,41,1.77
+203,2021-08-29,East,Boston,Cookies,Arrowroot,136,2.18
+204,2021-09-01,East,Boston,Bars,Carrot,25,1.77
+205,2021-09-04,East,Boston,Snacks,Pretzels,26,3.15
+206,2021-09-07,West,Los Angeles,Bars,Bran,50,1.87
+207,2021-09-10,West,Los Angeles,Cookies,Oatmeal Raisin,79,2.84
+208,2021-09-13,East,New York,Bars,Carrot,30,1.77
+209,2021-09-16,East,New York,Snacks,Potato Chips,20,1.68
+210,2021-09-19,West,San Diego,Bars,Carrot,49,1.77
+211,2021-09-22,East,Boston,Cookies,Arrowroot,40,2.18
+212,2021-09-25,East,Boston,Bars,Carrot,31,1.77
+213,2021-09-28,East,Boston,Snacks,Pretzels,21,3.15
+214,2021-10-01,West,Los Angeles,Bars,Bran,43,1.87
+215,2021-10-04,West,Los Angeles,Cookies,Oatmeal Raisin,47,2.84
+216,2021-10-07,East,New York,Cookies,Arrowroot,175,2.18
+217,2021-10-10,East,New York,Cookies,Chocolate Chip,23,1.87
+218,2021-10-13,West,San Diego,Bars,Carrot,40,1.77
+219,2021-10-16,East,Boston,Cookies,Arrowroot,87,2.18
+220,2021-10-19,East,Boston,Bars,Carrot,43,1.77
+221,2021-10-22,East,Boston,Crackers,Whole Wheat,30,3.49
+222,2021-10-25,West,Los Angeles,Bars,Carrot,35,1.77
+223,2021-10-28,East,New York,Bars,Bran,57,1.87
+224,2021-10-31,East,New York,Snacks,Potato Chips,25,1.68
+225,2021-11-03,West,San Diego,Cookies,Chocolate Chip,24,1.87
+226,2021-11-06,East,Boston,Bars,Bran,83,1.87
+227,2021-11-09,East,Boston,Cookies,Oatmeal Raisin,124,2.84
+228,2021-11-12,West,Los Angeles,Bars,Carrot,137,1.77
+229,2021-11-15,East,New York,Cookies,Arrowroot,146,2.18
+230,2021-11-18,East,New York,Cookies,Chocolate Chip,34,1.87
+231,2021-11-21,West,San Diego,Bars,Carrot,20,1.77
+232,2021-11-24,East,Boston,Cookies,Arrowroot,139,2.18
+233,2021-11-27,East,Boston,Cookies,Chocolate Chip,211,1.87
+234,2021-11-30,East,Boston,Crackers,Whole Wheat,20,3.49
+235,2021-12-03,West,Los Angeles,Bars,Bran,42,1.87
+236,2021-12-06,West,Los Angeles,Cookies,Oatmeal Raisin,100,2.84
+237,2021-12-09,East,New York,Bars,Carrot,38,1.77
+238,2021-12-12,East,New York,Crackers,Whole Wheat,25,3.49
+239,2021-12-15,West,San Diego,Cookies,Chocolate Chip,96,1.87
+240,2021-12-18,East,Boston,Cookies,Arrowroot,34,2.18
+241,2021-12-21,East,Boston,Cookies,Chocolate Chip,245,1.87
+242,2021-12-24,East,Boston,Crackers,Whole Wheat,30,3.49
+243,2021-12-27,West,Los Angeles,Bars,Bran,30,1.87
+244,2021-12-30,West,Los Angeles,Cookies,Oatmeal Raisin,44,2.84

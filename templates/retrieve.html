@@ -1,0 +1,42 @@
+{%  extends 'layout.html' %}
+{% block body %}
+    <div class='row'>
+        <div class='col-5 mx-auto'>
+            <form method='post' action='{{url_for("retrieve")}}'>
+                <div class='form-group'>
+                    <label>Type Quantity</label><br><br>
+                    <input type='text' class='form-control' name='quantity' required>
+                </div>
+                <br>
+                <input type='submit' value='Search' class='btn btn-primary'>
+            </form>
+        </div>
+    </div>
+    <br>
+    <table class='table table-bordered'>
+        <thead>
+            <th>Id</td>
+            <th>Order Date</td>
+            <th>Region</td>
+            <th>City</td>
+            <th>Category</td>
+            <th>Product</td>
+            <th>Quantity</td>
+            <th>Unit Price</td>
+        </thead>
+        <tbody>
+            {% for row in datas %}
+                <tr>
+                    <td>{{row.id}}</td>
+                    <td>{{row.order_date}}</td>
+                    <td>{{row.region}}</td>
+                    <td>{{row.city}}</td>
+                    <td>{{row.category}}</td>
+                    <td>{{row.product}}</td>
+                    <td>{{row.quantity}}</td>
+                    <td>{{row.unit_price}}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
