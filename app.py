@@ -13,7 +13,12 @@ def retrieve():
         cur.execute("select * from product_table where quantity<=?",[quantity])
         data=cur.fetchall()
         return render_template('retrieve.html',datas=data)
-    return render_template('retrieve.html')
+    con=sql.connect("user_db.db")
+    con.row_factory=sql.Row
+    cur=con.cursor()
+    cur.execute("select * from product_table")
+    data=cur.fetchall()
+    return render_template('retrieve.html',datas=data)
 
 if __name__ =='__main__':
     app.secret_key='admin123'
